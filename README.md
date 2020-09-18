@@ -25,8 +25,7 @@ I'm Ben, a software creator.
 - Ruby on Rails
 - Tensorflow/Keras
 
-<br />
-[](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
+![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
 
 
 <!--
