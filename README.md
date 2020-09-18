@@ -1,4 +1,21 @@
-# It's nice to meet you 😄
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/benjamin-k-740412149/">
+  <img align="left" alt="Ben's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_b_y_k/">
+  <img align="left" alt="Ben's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+
+Hi, I'm Ben Kim, software creator.
+
+**Languages and Tools:**  
+- Flutter
+- React
+- Django
+- Ruby on Rails
+- Tensorflow/Keras
 
 
 ![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
