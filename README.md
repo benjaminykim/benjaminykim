@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm Ben, a software creator.
+I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a FullStack engineer but have experience building neural models and researching machine learning.
 
 - 🔭 I’m currently working on a social network for gratitude
 - 🌱 I’m currently learning Ruby on Rails
@@ -19,15 +19,11 @@ I'm Ben, a software creator.
 - ⚡ Fun fact: hydroponics uses 90% less water than traditional agriculture
 
 **Languages and Tools:**  
-- Flutter
-- React
-- Django
+- Flutter/Dart
+- React/JS/TS
+- Django/Python
 - Ruby on Rails
+- C
 - Tensorflow/Keras
 
 ![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
-
-
-<!--
-**benjaminykim/benjaminykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
