@@ -7,8 +7,16 @@
 </a>
 
 <br />
+<br />
+<br />
 
 I'm Ben, a software creator.
+
+- 🔭 I’m currently working on a social network for gratitude
+- 🌱 I’m currently learning Ruby on Rails
+- 💬 Ask me about [hydroponics](https://www.wikiwand.com/en/Hydroponics)
+- 📫 How to reach me: [email](mailto::1996byk@gmail.com)
+- ⚡ Fun fact: hydroponics uses 90% less water than traditional agriculture
 
 **Languages and Tools:**  
 - Flutter
@@ -17,22 +25,11 @@ I'm Ben, a software creator.
 - Ruby on Rails
 - Tensorflow/Keras
 
-
+<br />
+<br />
 ![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
-<h3>Where to find me</h3>
-<p><a href="https://github.com/benjaminykim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/benjamin-k-740412149/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+
+
 <!--
 **benjaminykim/benjaminykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
