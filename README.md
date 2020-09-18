@@ -12,8 +12,9 @@
 
 I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a FullStack engineer but have experience building neural models and researching machine learning.
 
-- 🔭 I’m currently working on a social network for gratitude
-- 🌱 I’m currently learning Ruby on Rails
+**Currently Me**
+- 🔭 My side project is a [social network for gratitude](https://github.com/thank-tank)
+- 🌱 I’m learning Ruby on Rails
 - 💬 Ask me about [hydroponics](https://www.wikiwand.com/en/Hydroponics)
 - 📫 How to reach me: [email](mailto::1996byk@gmail.com)
 - ⚡ Fun fact: hydroponics uses 90% less water than traditional agriculture
@@ -25,5 +26,10 @@ I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/)
 - Ruby on Rails
 - C
 - Tensorflow/Keras
+
+**My Projects**
+- Check out an unlaunched political social platform called [Cibic](https://github.com/cibic-io)
+- Browse a smart home IOT project with [Co-Create Containers](https://github.com/co-create)
+- Take a look at a [self driving car](https://github.com/benjaminykim/self-driving-car-simulator) I trained
 
 ![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
