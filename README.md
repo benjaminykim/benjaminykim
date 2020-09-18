@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm Ben Kim, software creator.
+I'm Ben, a software creator.
 
 **Languages and Tools:**  
 - Flutter
