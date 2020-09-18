@@ -16,7 +16,7 @@ I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/)
 - 🔭 My side project is a [social network for gratitude](https://github.com/thank-tank)
 - 🌱 I’m learning Ruby on Rails
 - 💬 Ask me about [hydroponics](https://www.wikiwand.com/en/Hydroponics)
-- 📫 How to reach me: [email](mailto::1996byk@gmail.com)
+- 📫 How to reach me: [email](mailto:1996byk@gmail.com?subject=Hi!)
 - ⚡ Fun fact: hydroponics uses 90% less water than traditional agriculture
 
 **Languages and Tools:**  
