@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a fullstack engineer but have experience building neural models and researching machine learning.
+I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a fullstack engineer and have experience building neural models and researching machine learning.
 
 **Current**
 - 🔭 My side project is a [social network for gratitude](https://github.com/thank-tank)
