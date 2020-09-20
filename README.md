@@ -1,14 +1,14 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a FullStack engineer but have experience building neural models and researching machine learning.
+I'm Ben, a lover of all things software. I intern at [Swim](https://swimapp.io/) and have also worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley's Division of Data Science](https://data.berkeley.edu/). I specialize as a fullstack engineer but have experience building neural models and researching machine learning.
 
 **Current**
 - 🔭 My side project is a [social network for gratitude](https://github.com/thank-tank)
 - 🌱 I’m learning Ruby on Rails
 - 💬 Ask me about [hydroponics](https://www.wikiwand.com/en/Hydroponics)
 - 📫 How to reach me: [email](mailto:1996byk@gmail.com?subject=Hi!) or [linkedin](https://www.linkedin.com/in/benjamin-k-740412149/)
-- ⚡ Fun fact: hydroponics uses 90% less water than traditional agriculture
+- ⚡ Fun fact: hydroponics use 90% less water than traditional agriculture
 
 **Main Languages and Tools:**  
 - Flutter/Dart
