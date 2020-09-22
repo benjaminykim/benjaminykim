@@ -28,7 +28,7 @@ I'm [Ben](https://www.benkim.dev), a lover of all things software. I intern at [
   <img align="left" alt="Ben's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.benkim.dev">
-  <img align="left" alt="Ben's Personal Site" width="22px" src="https://img.icons8.com/fluent-systems-filled/24/000000/domain.png" />
+  <img align="left" alt="Ben's Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
