@@ -21,7 +21,7 @@ I'm [Ben](https://www.benkim.dev), a lover of all things software. I intern at [
 - Check out an unlaunched political social platform called [Cibic](https://github.com/cibic-io)
 - Browse a smart home IOT project with [Co-Create Containers](https://github.com/co-create)
 - Take a look at a [self driving car](https://github.com/benjaminykim/self-driving-car-simulator) I trained
-<a href="https://www.linkedin.com/in/benjamin-k-740412149/">
+<a href="https://www.linkedin.com/in/ben-kim-740412149/">
   <img align="left" alt="Ben's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_b_y_k/">
