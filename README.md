@@ -1,12 +1,12 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-I'm [Ben](https://www.benkim.dev), a lover of all things software. I intern at [Swim](https://swimapp.io/) and have worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley Data Science](https://data.berkeley.edu/). I specialize as a fullstack dev and also build neural networks/computer generated art for fun. Check out my website at [benkim.dev](https://www.benkim.dev) for more.
+I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm a fullstack intern at [Swim](https://swimapp.io/) and have previously worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley Data Science](https://data.berkeley.edu/). I specialize in web but also build neural networks/computer generated art for fun. Check out my website at [benkim.dev](https://www.benkim.dev) for more.
 
 **Current**
 - 🔭 My side project is a [social platform for gratitude](https://github.com/thank-tank)
 - 🌱 I’m learning Ruby on Rails
-- 📫 Reach me: [email](mailto:1996byk@gmail.com?subject=Hi!) or [LinkedIn](https://www.linkedin.com/in/benjamin-k-740412149/)
+- 📫 Reach me: [email](mailto:1996byk@gmail.com?subject=Hi!) or [LinkedIn](https://www.linkedin.com/in/ben-kim-740412149/)
 - ⚡ Fun fact: [hydroponics](https://www.wikiwand.com/en/Hydroponics) use 90% less water than traditional agriculture
 
 **Main Languages and Tools:**  
