@@ -17,8 +17,8 @@ I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm a fullsta
 - Tensorflow/Keras
 
 **My Projects**
-- [ThankTank](www.thanktank.app), a social platform for gratitude
-- [briefs.link](www.briefs.link), a URL shortener
+- [ThankTank](https://www.thanktank.app), a social platform for gratitude
+- [briefs.link](https://www.briefs.link), a URL shortener
 - Check out an unlaunched political social platform called [Cibic](https://github.com/cibic-io)
 - Browse a smart home IOT project with [Co-Create Containers](https://github.com/co-create)
 - Take a look at a [self driving car](https://github.com/benjaminykim/self-driving-car-simulator) I trained
