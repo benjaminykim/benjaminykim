@@ -18,7 +18,7 @@ I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm a fullsta
 
 **My Projects**
 - [ThankTank](https://www.thanktank.app), a social platform for gratitude
-- [briefs.link](https://www.briefs.link), a URL shortener
+- [briefs.link](https://www.briefs.link), a URL shortener with an analytics console
 - Check out an unlaunched political social platform called [Cibic](https://github.com/cibic-io)
 - Browse a smart home IOT project with [Co-Create Containers](https://github.com/co-create)
 - Take a look at a [self driving car](https://github.com/benjaminykim/self-driving-car-simulator) I trained
