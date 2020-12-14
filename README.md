@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm a fullstack intern at [Swim](https://swimapp.io/) and have previously worked at [Soda Labs](https://sodalabs.co/) and [UC Berkeley Data Science](https://data.berkeley.edu/). I specialize in web but also build neural networks/computer generated art for fun. Check out my website at [benkim.dev](https://www.benkim.dev) for more.
+I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm Software Engineer at [Farm Generations](https://www.farmgenerations.coop/) and have previously worked at [Swim](https://swimapp.io/), [Soda Labs](https://sodalabs.co/) and [UC Berkeley Data Science](https://data.berkeley.edu/). I specialize in web but also build neural networks/computer generated art for fun. Check out my website at [benkim.dev](https://www.benkim.dev) for more.
 
 **Current**
 - 🔭 My side project is a [social platform for gratitude](https://github.com/thank-tank)
