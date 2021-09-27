@@ -31,5 +31,3 @@ I'm [Ben](https://www.benkim.dev), a lover of all things software. I'm Software 
 <a href="https://www.benkim.dev">
   <img align="left" alt="Ben's Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
-
-![](https://komarev.com/ghpvc/?username=benjaminykim&color=green)
